@@ -1,0 +1,45 @@
+{
+  "chats": {
+    "GlwAaoRgdqgSQkXIoGx72MNAjH12": {
+      "mECx9NkKMANWmJK05HjU9eFUBVt2": {
+        "MESSAGEID1": {
+          "from": "them",
+          "text": "Hello, Hi"
+        },
+        "MESSAGEID2": {
+          "from": "me",
+          "text": "I'm fine, what about you"
+        }
+      }
+    },
+    "mECx9NkKMANWmJK05HjU9eFUBVt2": {
+      "GlwAaoRgdqgSQkXIoGx72MNAjH12": {
+        "MESSAGEID1": {
+          "from": "me",
+          "text": "Hello, Hi"
+        },
+        "MESSAGEID2": {
+          "from": "them",
+          "text": "I'm fine, what about you"
+        }
+      }
+    }
+  },
+  "chatusers": {
+    "GlwAaoRgdqgSQkXIoGx72MNAjH12": {
+      "email": "ali@gmail.com",
+      "name": "Ali Rehman",
+      "status": false
+    },
+    "mECx9NkKMANWmJK05HjU9eFUBVt2": {
+      "email": "hafiz@gmail.com",
+      "name": "Hafiz",
+      "status": true
+    },
+    "xxHQn9JhDaZkQn1YD1TZE7H7iLn1": {
+      "email": "kali@gmail.com",
+      "name": "Kali Rehman",
+      "status": true
+    }
+  }
+}
